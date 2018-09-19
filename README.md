@@ -1,10 +1,12 @@
 Ôªø
 # Repo Activities
 
-### Reposit√≥rio das atividades da UFS realizadas por Lucas Brabec.
+### RepositÛrio das atividades da UFS realizadas por Lucas Brabec.
 
 # Tarefas
 ## Grafos - Miniteste
-### Miniteste pr√°tico para implementa√ß√£o dos algoritmos de fluxo m√°ximo:
+### Miniteste pr·tico para implementaÁ„o dos algoritmos de fluxo m·ximo:
 ### Ford-Fulkerson e Push-Relabel.
-
+### Material de apoio:
+### Introdu√ß√£o - https://www.geeksforgeeks.org/max-flow-problem-introduction/
+### Algoritmo - https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
